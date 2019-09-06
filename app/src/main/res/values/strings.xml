@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarea_semaforo</string>
+    <string name="iniciar">iniciar</string>
+    <string name="parar">parar</string>
+    <string name="Deshabilitado">Deshabilitado</string>
+    <string name="Adelante">Adelante</string>
+    <string name="Precaucion">Precaucion</string>
+    <string name="Alto">Alto</string>
+</resources>
